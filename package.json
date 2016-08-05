@@ -85,7 +85,7 @@
       "name": "magicismight"
     }
   ],
-  "name": "react-native-svg",
+  "name": "react-native-xsy-svg",
   "nativePackage": true,
   "optionalDependencies": {},
   "peerDependencies": {
@@ -94,7 +94,7 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/magicismight/react-native-svg.git"
+    "url": "git+https://github.com/YuXueBJ/react-native-xsy-svg.git"
   },
   "rnpm": {
     "ios": {
@@ -104,5 +104,5 @@
   "scripts": {
     "lint": "eslint ./"
   },
-  "version": "2.2.0"
+  "version": "0.1.0"
 }
