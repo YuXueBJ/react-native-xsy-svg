@@ -2,47 +2,47 @@
   "_args": [
     [
       {
-        "name": "react-native-svg",
-        "raw": "react-native-svg@^2.1.0",
-        "rawSpec": "^2.1.0",
+        "name": "react-native-xsy-svg",
+        "raw": "react-native-xsy-svg@^0.1.0",
+        "rawSpec": "^0.1.0",
         "scope": null,
-        "spec": ">=2.1.0 <3.0.0",
+        "spec": ">=0.1.0 <0.2.0",
         "type": "range"
       },
       "/Users/zhuhongwei/work/xiaoshouyi/project/platform/ingageplatform"
     ]
   ],
-  "_from": "react-native-svg@>=2.1.0 <3.0.0",
-  "_id": "react-native-svg@2.2.0",
+  "_from": "react-native-xsy-svg@>=0.1.0 <0.2.0",
+  "_id": "react-native-xsy-svg@0.1.0",
   "_inCache": true,
   "_installable": true,
-  "_location": "/react-native-svg",
+  "_location": "/react-native-xsy-svg",
   "_nodeVersion": "5.9.1",
   "_npmOperationalInternal": {
     "host": "packages-16-east.internal.npmjs.com",
-    "tmp": "tmp/react-native-svg-2.2.0.tgz_1465699254997_0.9396662004292011"
+    "tmp": "tmp/react-native-xsy-svg-0.1.0.tgz_1465699254997_0.9396662004292011"
   },
   "_npmUser": {
-    "email": "master@horcrux.cn",
-    "name": "magicismight"
+    "email": "zhwios@126.com",
+    "name": "zhwios.cn"
   },
   "_npmVersion": "3.7.3",
   "_phantomChildren": {},
   "_requested": {
-    "name": "react-native-svg",
-    "raw": "react-native-svg@^2.1.0",
+    "name": "react-native-xsy-svg",
+    "raw": "react-native-xsy-svg@^0.1.0",
     "rawSpec": "^2.1.0",
     "scope": null,
-    "spec": ">=2.1.0 <3.0.0",
+    "spec": ">=0.1.0 <0.2.0",
     "type": "range"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/react-native-svg/-/react-native-svg-2.2.0.tgz",
+  "_resolved": "https://registry.npmjs.org/react-native-xsy-svg/-/react-native-xsy-svg-0.1.0.tgz",
   "_shasum": "679700982351147df592bc6ef3484e5bd1c14097",
   "_shrinkwrap": null,
-  "_spec": "react-native-svg@^2.1.0",
+  "_spec": "react-native-xsy-svg@^0.1.0",
   "_where": "/Users/zhuhongwei/work/xiaoshouyi/project/platform/ingageplatform",
   "bugs": {
     "url": "https://github.com/magicismight/react-native-svg/issues"
@@ -60,7 +60,7 @@
   "directories": {},
   "dist": {
     "shasum": "679700982351147df592bc6ef3484e5bd1c14097",
-    "tarball": "https://registry.npmjs.org/react-native-svg/-/react-native-svg-2.2.0.tgz"
+    "tarball": "https://registry.npmjs.org/react-native-xsy-svg/-/react-native-xsy-svg-0.1.0.tgz"
   },
   "gitHead": "128a82d92b54f96ecbb19df1f24e0b0d87bbcd61",
   "homepage": "https://github.com/magicismight/react-native-svg#readme",
@@ -77,12 +77,8 @@
   "main": "./index.js",
   "maintainers": [
     {
-      "email": "brentvatne@gmail.com",
-      "name": "brentvatne"
-    },
-    {
-      "email": "master@horcrux.cn",
-      "name": "magicismight"
+      "email": "zhwios@126.com",
+      "name": "zhwios.cn"
     }
   ],
   "name": "react-native-xsy-svg",

@@ -36,26 +36,26 @@
 21 silly publish   _id: 'react-native-xsy-svg@0.1.0',
 21 silly publish   _inCache: true,
 21 silly publish   _installable: true,
-21 silly publish   _location: '/react-native-svg',
+21 silly publish   _location: '/react-native-xsy-svg',
 21 silly publish   _nodeVersion: '5.9.1',
 21 silly publish   _npmOperationalInternal:
 21 silly publish    { host: 'packages-16-east.internal.npmjs.com',
-21 silly publish      tmp: 'tmp/react-native-svg-2.2.0.tgz_1465699254997_0.9396662004292011' },
+21 silly publish      tmp: 'tmp/react-native-xsy-svg-0.1.0.tgz_1465699254997_0.9396662004292011' },
 21 silly publish   _npmUser: { email: 'master@horcrux.cn', name: 'magicismight' },
 21 silly publish   _npmVersion: '3.7.3',
 21 silly publish   _phantomChildren: {},
 21 silly publish   _requested:
-21 silly publish    { name: 'react-native-svg',
-21 silly publish      raw: 'react-native-svg@^2.1.0',
+21 silly publish    { name: 'react-native-xsy-svg',
+21 silly publish      raw: 'react-native-xsy-svg@^0.1.0',
 21 silly publish      rawSpec: '^2.1.0',
 21 silly publish      scope: null,
-21 silly publish      spec: '>=2.1.0 <3.0.0',
+21 silly publish      spec: '>=0.1.0 <0.2.0',
 21 silly publish      type: 'range' },
 21 silly publish   _requiredBy: [ '/' ],
-21 silly publish   _resolved: 'https://registry.npmjs.org/react-native-svg/-/react-native-svg-2.2.0.tgz',
-21 silly publish   _shasum: 'e015e2b1b93e43dd8aaf61cac22e9870bca45da0',
+21 silly publish   _resolved: 'https://registry.npmjs.org/react-native-svg/-/react-native-xsy-svg-0.1.0.tgz',
+21 silly publish   _shasum: '82edc406858d68e0f54fdcf1f7123805ccfb5b19',
 21 silly publish   _shrinkwrap: null,
-21 silly publish   _spec: 'react-native-svg@^2.1.0',
+21 silly publish   _spec: 'react-native-xsy-svg@^0.1.0',
 21 silly publish   _where: '/Users/zhuhongwei/work/xiaoshouyi/project/platform/ingageplatform',
 21 silly publish   bugs: { url: 'https://github.com/magicismight/react-native-svg/issues' },
 21 silly publish   dependencies: { color: '^0.11.1', lodash: '^4.0.0' },
@@ -111,8 +111,8 @@
 29 silly publish uploading /Users/zhuhongwei/.npm/react-native-xsy-svg/0.1.0/package.tgz
 30 verbose request uri https://registry.npm.taobao.org/react-native-xsy-svg
 31 verbose request sending authorization for write operation
-32 info attempt registry request try #1 at 18:16:49
-33 verbose request id 9b009be9b0da5de3
+32 info attempt registry request try #1 at 16:42:24
+33 verbose request id ff346303f84f9435
 34 http request PUT https://registry.npm.taobao.org/react-native-xsy-svg
 35 http 413 https://registry.npm.taobao.org/react-native-xsy-svg
 36 verbose bad json <html>
@@ -123,7 +123,7 @@
 36 verbose bad json </body>
 36 verbose bad json </html>
 37 error registry error parsing json
-38 verbose headers { date: 'Fri, 05 Aug 2016 10:16:42 GMT',
+38 verbose headers { date: 'Tue, 09 Aug 2016 08:42:25 GMT',
 38 verbose headers   'content-type': 'text/html',
 38 verbose headers   'content-length': '207',
 38 verbose headers   connection: 'keep-alive' }
