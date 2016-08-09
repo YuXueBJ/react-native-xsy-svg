@@ -1,16 +1,16 @@
-## react-native-svg
+## react-native-xsy-svg
 
-[![Version](https://img.shields.io/npm/v/react-native-svg.svg)](https://www.npmjs.com/package/react-native-svg)
-[![Build Status](https://travis-ci.org/magicismight/react-native-svg.svg?branch=master)](https://travis-ci.org/magicismight/react-native-svg)
+[![Version](https://img.shields.io/npm/v/react-native-xsy-svg.svg)](https://www.npmjs.com/package/react-native-xsy-svg)
+[![Build Status](https://travis-ci.org/magicismight/react-native-xsy-svg.svg?branch=master)](https://travis-ci.org/magicismight/react-native-xsy-svg)
 
-`react-native-svg` is built to provide a SVG interface to react native on both iOS and Android
+`react-native-xsy-svg` is built to provide a SVG interface to react native on both iOS and Android
 
 # IMPORTANT：
 
-`react-native-art-svg` has changed name to **`react-native-svg`**(*thanks for [@Brent Vatne](https://github.com/brentvatne) handing over me this npm package.*).
+`react-native-art-svg` has changed name to **`react-native-xsy-svg`**(*thanks for [@Brent Vatne](https://github.com/brentvatne) handing over me this npm package.*).
 
 And furthermore:
-`react-native-svg` **NO LONGER rely on ReactNativeART**, it has its own native code dependency now (which is based on ReactNativeART code but support more SVG features)
+`react-native-xsy-svg` **NO LONGER rely on ReactNativeART**, it has its own native code dependency now (which is based on ReactNativeART code but support more SVG features)
 
 
 ### Features
@@ -24,14 +24,14 @@ And furthermore:
 1. Install library from npm.
 
 ```
-npm install react-native-svg --save
+npm install react-native-xsy-svg --save
 ```
 
 2 . Link native code
 If you haven\`t installed `rnpm`, you can run `npm i rnpm -g` first.
 
 ```
-rnpm link react-native-svg
+rnpm link react-native-xsy-svg
 ```
 
 
@@ -56,7 +56,7 @@ import Svg,{
     Use,
     Defs,
     Stop
-} from 'react-native-svg';
+} from 'react-native-xsy-svg';
 
 class SvgExample extends Component {
     render() {

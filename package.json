@@ -1,69 +1,18 @@
 {
-  "_args": [
-    [
-      {
-        "name": "react-native-xsy-svg",
-        "raw": "react-native-xsy-svg@^0.1.0",
-        "rawSpec": "^0.1.0",
-        "scope": null,
-        "spec": ">=0.1.0 <0.2.0",
-        "type": "range"
-      },
-      "/Users/zhuhongwei/work/xiaoshouyi/project/platform/ingageplatform"
-    ]
-  ],
-  "_from": "react-native-xsy-svg@>=0.1.0 <0.2.0",
-  "_id": "react-native-xsy-svg@0.1.0",
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/react-native-xsy-svg",
-  "_nodeVersion": "5.9.1",
-  "_npmOperationalInternal": {
-    "host": "packages-16-east.internal.npmjs.com",
-    "tmp": "tmp/react-native-xsy-svg-0.1.0.tgz_1465699254997_0.9396662004292011"
+  "name": "react-native-xsy-svg",
+  "version": "0.2.0",
+  "description": "An easy mongodb client for node.js based on native mongodb driver.",
+  "main": "./index.js",
+  "directories": {
+    "example": "examples"
   },
-  "_npmUser": {
-    "email": "zhwios@126.com",
-    "name": "zhwios.cn"
+  "scripts": {
+    "test": "make test"
   },
-  "_npmVersion": "3.7.3",
-  "_phantomChildren": {},
-  "_requested": {
-    "name": "react-native-xsy-svg",
-    "raw": "react-native-xsy-svg@^0.1.0",
-    "rawSpec": "^2.1.0",
-    "scope": null,
-    "spec": ">=0.1.0 <0.2.0",
-    "type": "range"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YuXueBJ/react-native-xsy-svg.git"
   },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/react-native-xsy-svg/-/react-native-xsy-svg-0.1.0.tgz",
-  "_shasum": "679700982351147df592bc6ef3484e5bd1c14097",
-  "_shrinkwrap": null,
-  "_spec": "react-native-xsy-svg@^0.1.0",
-  "_where": "/Users/zhuhongwei/work/xiaoshouyi/project/platform/ingageplatform",
-  "bugs": {
-    "url": "https://github.com/magicismight/react-native-svg/issues"
-  },
-  "dependencies": {
-    "color": "^0.11.1",
-    "lodash": "^4.0.0"
-  },
-  "description": "react native svg library",
-  "devDependencies": {
-    "babel-eslint": "^6.0.0",
-    "eslint": "^2.5.3",
-    "eslint-plugin-react": "^4.2.1"
-  },
-  "directories": {},
-  "dist": {
-    "shasum": "679700982351147df592bc6ef3484e5bd1c14097",
-    "tarball": "https://registry.npmjs.org/react-native-xsy-svg/-/react-native-xsy-svg-0.1.0.tgz"
-  },
-  "gitHead": "128a82d92b54f96ecbb19df1f24e0b0d87bbcd61",
-  "homepage": "https://github.com/magicismight/react-native-svg#readme",
   "keywords": [
     "react-component",
     "react-native",
@@ -73,32 +22,9 @@
     "ART",
     "VML"
   ],
+  "author": "zhwios",
   "license": "MIT",
-  "main": "./index.js",
-  "maintainers": [
-    {
-      "email": "zhwios@126.com",
-      "name": "zhwios.cn"
-    }
-  ],
-  "name": "react-native-xsy-svg",
-  "nativePackage": true,
-  "optionalDependencies": {},
-  "peerDependencies": {
-    "react-native": ">=0.25.1"
-  },
-  "readme": "ERROR: No README data found!",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/YuXueBJ/react-native-xsy-svg.git"
-  },
-  "rnpm": {
-    "ios": {
-      "project": "ios/RNSVG.xcodeproj"
-    }
-  },
-  "scripts": {
-    "lint": "eslint ./"
-  },
-  "version": "0.1.0"
+  "bugs": {
+    "url": "https://github.com/YuXueBJ/react-native-xsy-svg"
+  }
 }
